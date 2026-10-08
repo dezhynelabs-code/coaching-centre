@@ -1,0 +1,12 @@
+{
+  "name": "vijetha-study-circle",
+  "version": "1.0.0",
+  "description": "Vijetha Study Circle - Premier Competitive Coaching Institute Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "framer-motion": "^14.0.0"
+  }
+}
